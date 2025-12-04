@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <url>http://localhost:3008/HAMS</url>
+    <url>http://localhost:3008/PAS</url>
 
     <dependencies>
         <!-- Servlet API -->
